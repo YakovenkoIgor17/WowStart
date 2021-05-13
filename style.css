@@ -13340,7 +13340,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   }
 
   .menu__list li:first-child:hover::after {
-    content: url(menu-arrow.svg);
+    content: url(.menu-arrow.svg);
     position: absolute;
     top: 28px;
     left: 45px;
@@ -13348,14 +13348,14 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   }
 
   .menu__list li:nth-child(2):hover::after {
-    content: url(menu-arrow.svg);
+    content: url(.menu-arrow.svg);
     position: absolute;
     top: 28px;
     left: 210px;
   }
 
   .menu__list li:nth-child(3):hover::after {
-    content: url(menu-arrow.svg);
+    content: url(.menu-arrow.svg);
     position: absolute;
     top: 28px;
     left: 378px;
@@ -13363,7 +13363,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   }
 
   .menu__list li:last-child:hover::after {
-    content: url(menu-arrow.svg);
+    content: url(.menu-arrow.svg);
     position: absolute;
     top: 28px;
     left: 553px;
